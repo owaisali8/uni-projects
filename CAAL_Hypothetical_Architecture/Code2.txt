@@ -1,0 +1,16 @@
+//Steps for Code2 RAM Image(8-bit):
+
+/*This demo adds 2 diffrent groups of values and then multiplies it 
+Stores the ans into memory.
+Main2Image has to be loaded into Main Memory*/
+
+Load 0101
+Add 0110
+Store 1000
+Load 0010
+Add 0011
+Store 1001
+Load 1000
+Mul 1001
+Store 1100
+END
