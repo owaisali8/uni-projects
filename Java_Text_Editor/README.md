@@ -1,6 +1,7 @@
 
 # Java Text Editor 
 Data Structures Project
+
 Made on Netbeans along with Swing GUI
 
 Text editors are the most commonly used software for writing documentation, plain texts and project source codes. Notepad, WordPad, etc. are some of the popular text editing tools with various features and options. After our basic UI we added more unique features, including Vocabulary Check, Dictionary and Find and Replace. These all features use various Data Structures including:
