@@ -11,7 +11,8 @@ We have implemented the MARIE architecture in its simplest form. As a minimum, t
 - INPUT: Loads data from InREG to AC
 - END: Terminates the program
 
-It is implemented on Logisim first using an 8 bit word then extending it to 16 bit
+It is implemented on Logisim(Implementation.circ) first using an 8 bit word then extending it to 16 bit.
+Note: You need Logisim to run circ files.
 
 ## Components In Logisim
 1. RAM/ROM 
