@@ -1,5 +1,5 @@
 # University Projects
-This repository contains legacy projects which I have worked during my undergraduate studies:
+This repository contains legacy projects I worked on during my undergraduate studies
 
 - <u>**[Hotel Reservation System](https://github.com/owaisali8/uni-projects/tree/main/Hotel%20Reservation%20System%20on%20Java-Swing%20GUI-OOP/Project)**</u>: OOP Project made in Java Swing GUI library using Netbeans. Allows clients and admins to manage bookings.
 - <u>**[Java Text Editor](https://github.com/owaisali8/uni-projects/tree/main/Java_Text_Editor)**</u>: A simple Text editor made with Swing GUI on Netbeans. It implements basic features in order to signify the importance of Data Structures. 
