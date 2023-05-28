@@ -9,5 +9,6 @@ This repository contains legacy projects I worked on during my undergraduate stu
 - <u>**[Hypothetical Architecture](https://github.com/owaisali8/uni-projects/tree/main/CAAL_Hypothetical_Architecture)**</u>:  MARIE architecture in its simplest form made in Logisim.
 - <u>**[Pyaint](https://github.com/owaisali8/Pyaint)**</u>:  An open source paint program using Python and Pygame
 - <u>**[16-bit Architecture on Java](https://github.com/owaisali8/Java-OS-Project)**</u>: Virtual Environment build on Java for our OS course
+- <u>**[K-Means Clustering in CUDA Python](https://colab.research.google.com/drive/1JuKu3uRkS42RkKiiz0apNKJMINCEErLm?usp=sharing)**</u>:  Unsupervised machine learning algorithm in CUDA Python using Numba for PDC course. Main takeaway was to built an algorithm for GPU which finds K-Means faster with same accuracy.
 
 *More will be added*
