@@ -9,6 +9,9 @@ This repository contains legacy projects I worked on during my undergraduate stu
 - <u>**[Hypothetical Architecture](https://github.com/owaisali8/uni-projects/tree/main/CAAL_Hypothetical_Architecture)**</u>:  MARIE architecture in its simplest form made in Logisim.
 - <u>**[Pyaint](https://github.com/owaisali8/Pyaint)**</u>:  An open source paint program using Python and Pygame
 - <u>**[16-bit Architecture on Java](https://github.com/owaisali8/Java-OS-Project)**</u>: Virtual Environment build on Java for our OS course
+- <u>**[Linear Regression in CUDA C](https://colab.research.google.com/drive/1mywu_UfS5kMrKkzrr8l3B3cMOcJaX38V?usp=sharing)**</u>:  Supervised machine learning algorithm in CUDA C for PDC course.
 - <u>**[K-Means Clustering in CUDA Python](https://colab.research.google.com/drive/1JuKu3uRkS42RkKiiz0apNKJMINCEErLm?usp=sharing)**</u>:  Unsupervised machine learning algorithm in CUDA Python using Numba for PDC course. Main takeaway was to built an algorithm for GPU which finds K-Means faster with same accuracy.
+- <u>**[Kaam Daam: Web-Dev](https://github.com/owaisali8/web-dev-project)**</u>: Fullstack Application that connects service providers with customers in need. Tech Stack: React, Flutter, Node, Postgre and Express.js
+- <u>**[SupaPay: App-Dev](https://github.com/owaisali8/Supapay-Fintech-App)**</u>: An application built on Flutter and Firebase that provides basic financial services, such as mobile banking and customer support.
 
-*More will be added*
+*One last ride*
